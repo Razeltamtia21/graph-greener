@@ -34,6 +34,7 @@ Perfect for developers who want a visually appealing and active profile.
 2. **Clone your `priv` repository to your local machine:**
    ---
    git clone https://github.com/YOUR_USERNAME/priv.git
+
    cd priv
    ---
 
